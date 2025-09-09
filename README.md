@@ -207,7 +207,7 @@ int leftsee() {
 ```
 
 ## Final Setup:
-![esbot final](ezbot_final.png)
+![esbot final](ezzy.png)
 
 ## How It Works:
 1. The car moves forward unless the ultrasonic sensor detects an obstacle within a certain range.
